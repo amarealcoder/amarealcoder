@@ -11,7 +11,7 @@ I'm Ugorji Miracle. A web developer and technical writer. I love writing and bre
 
 Skills: REACT / JS / HTML / CSS/SCSS/BOOTSTRAP/MARKDOWN/TECHNICAL WRITING
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page. fgdfgd
 
 
 

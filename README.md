@@ -5,7 +5,7 @@ I'm Ugorji Miracle. A web developer and technical writer. I love writing and bre
 
 ### Hi there 👋, my name is Miracle
 #### I am a web developer and tech writer
-![I am a web developer and tech writer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a web developer and tech writer](https://https://www.canva.com/design/DAEqSOusrjI/Pgdotv6qQsIS7TLva-Ot7A/edit)
 
 I'm Ugorji Miracle. A web developer and technical writer. I love writing and breaking down complex concepts to simple understanding for the beginner. I write about HTML CSS javascript and bootstrap.
 

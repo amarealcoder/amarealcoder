@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![I am a web developer and tech writer](x-special/nautilus-clipboard
-copy
-file:///home/miracle/Downloads/Miracle%20Ugorji.png
+![I am a web developer and tech writer](Miracle Ugorji.png
 )
 
 I'm Ugorji Miracle. A web developer and technical writer. I love writing and breaking down complex concepts to simple understanding for the beginner. I write about html css javascript and bootstrap.

@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![I am a web developer and tech writer](https://www.canva.com/design/DAEqSEhbr38/37MqeMLOlejauf4FoMv5wQ/view?utm_content=DAEqSEhbr38&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![I am a web developer and tech writer](x-special/nautilus-clipboard
+copy
+file:///home/miracle/Downloads/Miracle%20Ugorji.png
+)
 
 I'm Ugorji Miracle. A web developer and technical writer. I love writing and breaking down complex concepts to simple understanding for the beginner. I write about html css javascript and bootstrap.
 

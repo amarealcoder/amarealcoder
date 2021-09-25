@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![goodBanner](https://user-images.githubusercontent.com/74703564/134764559-742af445-f518-4236-acb5-e5a1b6b9dfa0.png)
 
 
 I'm Ugorji Miracle. A web developer and technical writer. I love writing and breaking down complex concepts to simple understanding for the beginner. I write about html css javascript and bootstrap.

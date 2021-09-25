@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-![I am a web developer and tech writer](Miracle Ugorji.png
-)
 
-(![github](/images/icon.png))
 
 I'm Ugorji Miracle. A web developer and technical writer. I love writing and breaking down complex concepts to simple understanding for the beginner. I write about html css javascript and bootstrap.
 
